@@ -1,0 +1,12 @@
+{
+    "name": "alg/rpg",
+    "description": "rpg game",
+    "type": "project",
+    "require": {},
+    
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
